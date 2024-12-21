@@ -18,7 +18,7 @@ Below you will find two tables linking all workshop tutorials. We will add tutor
 
 
 ## Technical primers
-| Session | Topics | Tutorials, recording, extended readings |
+| Session | Topics | Links |
 | ----- | --------- | ----- | 
 | How to read a spec sheet | <ul> <li>Source selection</li> <li>Receiver selection</li> <li>System response</li> <li>Measurement environment</li> </ul> | Coming soon! |
 | Spectral analysis | <ul> <li>Fourier transform and spectrum</li> <li>Power spectral density</li> <li>Effects of sampling</li> </ul> | Coming soon! |
