@@ -2,17 +2,14 @@ timezone: Pacific Standard Time (PST)
 tabs:
 - title: ""
   contents:
-    - time: Jan. 25, 2025
-      title: Application opens for both workshops
-      description: null
-    - time: Feb. 10, 2025
-      title: Application closes for Seattle workshop
-      description: null
-    - time: Feb. 26, 2025
-      title: Acceptance notification for Seattle workshop
+    - time: Feb. 20, 2025
+      title: Seattle application deadline
       description: null
     - time: Mar. 3, 2025
-      title: Application closes for New Orleans workshop
+      title: Seattle acceptance notification
+      description: null
+    - time: Mar. 3, 2025
+      title: New Orleans application deadline
       description: null
     - time: Mar. 18, 2025
       title: Acceptance notification for New Orleans workshop
