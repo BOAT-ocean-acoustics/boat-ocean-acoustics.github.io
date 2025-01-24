@@ -1,8 +1,8 @@
 # New Orleans Workshop
 
 ## Quick facts
-- **When**: May 17-18, 2025 (immediately before the [joint meeting of the Acoustical Society of America and the International Congress on Acoustics](https://acousticalsociety.org/new-orleans-2025/))
-- **Where**: TBD, will be in New Orleans, LA
+- **When**: May 17-18, 2025 (immediately before the [ASA/ICA joint meeting](https://acousticalsociety.org/new-orleans-2025/))
+- **Where**: TBD in downtown New Orleans, LA
 - **What**: 
   - The BOAT New Orleans workshop aims to engage participants nationwide for two days of learning and exploration around ocean acoustics theory and practice. Attending the ASA/ICA meeting is not required for participating in the BOAT workshop.
 - **Who**: 
@@ -13,14 +13,15 @@
   - Developing intuitions for key ocean acoustics concepts and related signal processing and statistical concepts
   - Getting connected with a community of learners / researchers / educators in related fields
 - **Financial support**: 
-  - Students can apply for financial assistance (partial travel support and two nights lodging) to participate in the 
-workshop. See [](new-orleans-logistics) for detail.
+  - Participants can apply for financial assistance to offset up to $400 for transportation to the workshop and 2 nights of lodging in association with the workshop. See [](new-orleans-logistics) for detail.
 
 
 ## Application
-The application for the BOAT New Orleans workshop will open in January 2025.
+Application for the BOAT New Orleans workshop is now open until March 3, 2025!
 
-[**Sign up here to get notified!**](https://docs.google.com/forms/d/e/1FAIpQLScootOMq09YtlLCDkizWPF9J_lQ9VF-noCFxnTMW6HfStSkwA/viewform)
+[**Apply here!**](https://uwashington.qualtrics.com/)
+
+We will notify accepted applicants by March 18, 2025.
 
 Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_email }} if you can't find answers there!
 
@@ -29,19 +30,23 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 (new-orleans-logistics)=
 ## Logistics
 
-<!-- ### Venue / timing
-* The workshop will take place in person in **LOCATION**.
+### Venue / timing
+* The workshop will take place in person in downtown New Orleans, with the exact location to be announced.
 * Door is open at 8:00 am each morning, and we will start the morning sessions at 8:30 am sharp.
-* Due to space limitations, only registered BOAT participants can attend the workshop. -->
+* Due to space limitations, only registered BOAT participants can attend the workshop.
 
 ### Meals
 * Coffee, lunch and, snacks will be provided both days at the BOAT workshop.
 * Dinner will be provided for the first day of the workshop.
 
-### Lodging
-* Students can apply for financial assistance (partial travel support and lodging for May 16-17) to participate in the 
-workshop.
-* Details about lodging will be provided soon.
+### Financial assistance
+* Participants can apply for financial assistance to be reimbursed for up to $400 for air tickets and ground transportation from the airport.
+* Participants can also apply for two nights of lodging arranged by the BOAT program.
+* Lodging provided by BOAT will be based on double occupancy (two people per room). If you have any special accommodation needs due to exceptional circumstances, please indicate them in your application.
+* We encourage participants to explore other resources to cover the expenses, if possible, to help create the opportunity for others to join the workshop, as our resources for financial support are limited.
+
+
+
 <!-- * Dorms are all single/double rooms and each contain a private bathroom.
 * Participants who opt to will be staying at Willow Hall. Please Check in after
   2pm at the front desk on Sunday, July 10th.
@@ -56,9 +61,6 @@ workshop.
   number of restaurants, late-night activities and retail establishments.
 * The dorms have coin-operated laundry facilities. -->
 
-
-<!-- ### Transportation
-* **GROUND TRANSPORTATION TIPS (PROBABLY FROM LOYOLA UNIV)** -->
 
 <!-- 
 ### Communication

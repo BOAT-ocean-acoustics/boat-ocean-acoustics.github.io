@@ -18,9 +18,11 @@
 
 
 ## Application
-The application for the BOAT Seattle workshop will open in January 2025.
+Application for the BOAT Seattle workshop is now open until February 20, 2025!
 
-[**Sign up here to get notified!**](https://docs.google.com/forms/d/e/1FAIpQLScootOMq09YtlLCDkizWPF9J_lQ9VF-noCFxnTMW6HfStSkwA/viewform)
+[**Apply here!**](https://uwashington.qualtrics.com/)
+
+We will notify accepted applicants by March 3, 2025.
 
 Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_email }} if you can't find answers there!
 
@@ -41,7 +43,7 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 * The [Link light rail](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations) provides convenient access to UW campus. The "University of Washington" and "U District" stations on 1-Line are both within walking distance (~10 mins) to the workshop location.
 
 ### Lodging
-Lodging will not be provided for BOAT Seattle workshop participants.
+* Lodging will not be provided for BOAT Seattle workshop participants.
 
 
 <!-- ### Communication
