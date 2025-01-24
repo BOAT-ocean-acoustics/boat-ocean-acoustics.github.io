@@ -39,14 +39,15 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 * Coffee, lunch and, snacks will be provided both days at the BOAT workshop.
 * Dinner will be provided for the first day of the workshop.
 
-### Lodging
+### Transportation
 * Participants can apply for financial assistance and be reimbursed for up to $400 for air tickets and ground transportation from the airport.
-* Participants can also apply for two nights of lodging, which will be arranged by the BOAT program.
+<!-- * GROUND TRANSPORTATION TIPS -->
+
+### Lodging
+* Participants can apply for two nights of lodging, which will be arranged by the BOAT program.
 * Lodging provided by BOAT will be based on double occupancy (two people per room). If you have any special accommodation needs due to exceptional circumstances, please indicate them in your application.
 
 
-<!-- ### Transportation
-* GROUND TRANSPORTATION TIPS -->
 
 <!-- * Dorms are all single/double rooms and each contain a private bathroom.
 * Participants who opt to will be staying at Willow Hall. Please Check in after
