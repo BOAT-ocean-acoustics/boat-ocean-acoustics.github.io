@@ -39,13 +39,11 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 * Coffee, lunch and, snacks will be provided both days at the BOAT workshop.
 * Dinner will be provided for the first day of the workshop.
 
-### Transportation
-* Participants can apply for financial assistance and be reimbursed for up to $400 for air tickets and ground transportation from the airport.
-<!-- * GROUND TRANSPORTATION TIPS -->
-
-### Lodging
-* Participants can apply for two nights of lodging, which will be arranged by the BOAT program.
+### Financial assistance
+* Participants can apply for financial assistance to be reimbursed for up to $400 for air tickets and ground transportation from the airport.
+* Participants can also apply for two nights of lodging arranged by the BOAT program.
 * Lodging provided by BOAT will be based on double occupancy (two people per room). If you have any special accommodation needs due to exceptional circumstances, please indicate them in your application.
+* We encourage participants to explore other resources to cover the expenses, if possible, to help create the opportunity for others to join the workshop, as our resources for financial support are limited.
 
 
 
