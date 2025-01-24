@@ -18,11 +18,11 @@
 
 
 ## Application
-Application for the BOAT Seattle workshop is now open until February 10, 2025!
+Application for the BOAT Seattle workshop is now open until February 20, 2025!
 
-[**Apply here!**](https://docs.google.com/forms/d/e/1FAIpQLScootOMq09YtlLCDkizWPF9J_lQ9VF-noCFxnTMW6HfStSkwA/viewform)
+[**Apply here!**](LINK_TO_FORM)
 
-We will notify accepted applicants by February 26, 2025.
+We will notify accepted applicants by March 3, 2025.
 
 Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_email }} if you can't find answers there!
 
