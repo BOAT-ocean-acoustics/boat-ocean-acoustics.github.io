@@ -43,7 +43,7 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 * The [Link light rail](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations) provides convenient access to UW campus. The "University of Washington" and "U District" stations on 1-Line are both within walking distance (~10 mins) to the workshop location.
 
 ### Lodging
-Lodging will not be provided for BOAT Seattle workshop participants.
+* Lodging will not be provided for BOAT Seattle workshop participants.
 
 
 <!-- ### Communication
