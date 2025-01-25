@@ -17,9 +17,9 @@
 
 
 ## Application
-Application for the BOAT New Orleans workshop is now open until March 3, 2025!
+Application for the BOAT New Orleans workshop is now open until **March 3, 2025** [Anywhere on Earth (AoE)](https://www.timeanddate.com/time/zones/aoe)!
 
-[**Apply here!**](https://uwashington.qualtrics.com/)
+[**Apply here!**](https://uwashington.qualtrics.com/jfe/form/SV_bQqhRlKSdLQFHyS)
 
 We will notify accepted applicants by March 18, 2025.
 

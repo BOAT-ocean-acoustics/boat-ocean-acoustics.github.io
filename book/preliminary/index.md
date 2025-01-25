@@ -15,7 +15,7 @@ All workshop tutorials and exercises will be in a browser-based [JupyterLab](htt
 
 ## Programming experience
 
-All executable workshop materials will be written in Python. Therefore, we expect participants to have some experience with scripting programming languages, such as Python, Matlab, and R. If you are not familiar with Python, complete the Software Carpentry [core lessons](https://software-carpentry.org/lessons/#core-lessons-in-english) prior to the workshop, including:
+All executable workshop materials will be written in Python. Therefore, we expect participants to have some experience with scripting programming languages, such as Python, Matlab, and R. We expect participants to be able to read and write scripts of executable logic, manipulate variables, load libraries and read their documentation to determine their use, plot graphs. If you are not familiar with Python, complete the Software Carpentry [core lessons](https://software-carpentry.org/lessons/#core-lessons-in-english) prior to the workshop, including:
 - [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 - [Plotting and programming with Python](https://swcarpentry.github.io/python-novice-gapminder/)
 

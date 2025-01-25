@@ -18,9 +18,9 @@
 
 
 ## Application
-Application for the BOAT Seattle workshop is now open until February 20, 2025!
+Application for the BOAT Seattle workshop is now open until **February 20, 2025** [Anywhere on Earth (AoE)](https://www.timeanddate.com/time/zones/aoe)!
 
-[**Apply here!**](https://uwashington.qualtrics.com/)
+[**Apply here!**](https://uwashington.qualtrics.com/jfe/form/SV_6FqS0HnKS3JvEsm)
 
 We will notify accepted applicants by March 3, 2025.
 
