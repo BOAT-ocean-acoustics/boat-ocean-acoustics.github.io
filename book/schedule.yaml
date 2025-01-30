@@ -105,11 +105,11 @@ tabs:
     time: 14:45 - 15:45
     leads:
     - All
-  - title: BREAK
+  - title: "Open and reproducible science"
     description: null
-    time: 15:45 - 16:00
+    time: 15:45 - 16:30
   - title: Reflections & feedback
     description: null
-    time: 16:00 - 17:00
+    time: 16:30 - 17:30
     leads:
     - All
