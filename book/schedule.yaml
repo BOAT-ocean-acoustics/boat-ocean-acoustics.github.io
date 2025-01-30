@@ -4,12 +4,12 @@ tabs:
   contents:
   - title: Welcome and introduction
     description: null
-    time: 8:30 - 9:45
+    time: 8:30 - 9:30
     leads:
     - Wu-Jung Lee
   - title: "Navigating Jupyter and codespace"
     description: null
-    time: 9:45 - 10:00
+    time: 9:30 - 10:00
     leads:
     - Valentina Staneva
   - title: BREAK
@@ -83,6 +83,7 @@ tabs:
     time: 10:15 - 11:15
     leads:
     - Wu-Jung Lee
+    - Todd Hefner
   - title: "Hands-on exercise: ocean experimental data"
     description: null # echograms
     time: 11:15 - 12:00
@@ -105,11 +106,14 @@ tabs:
     time: 14:45 - 15:45
     leads:
     - All
-  - title: BREAK
+  - title: "Open and reproducible science"
     description: null
-    time: 15:45 - 16:00
+    time: 15:45 - 16:30
+    leads:
+    - Valentina Staneva
+    - Wu-Jung Lee
   - title: Reflections & feedback
     description: null
-    time: 16:00 - 17:00
+    time: 16:30 - 17:30
     leads:
     - All
