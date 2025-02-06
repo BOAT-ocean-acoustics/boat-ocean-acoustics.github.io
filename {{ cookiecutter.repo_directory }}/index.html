@@ -388,6 +388,7 @@
             {%- set link_class = 'active' %}
             {%- set link_state = 'true' %}
             {%- endif %}
+            {{  loop.index  }}
             <li class="nav-item me-2">
                 <a class="nav-link {{ link_class }}"
                    id="schedule-tab-{{ loop.index }}"
