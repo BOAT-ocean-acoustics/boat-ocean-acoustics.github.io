@@ -274,9 +274,9 @@
             {%- set tab_class = 'no-timeline' %}
             {%- endif %}
             <div class="tab-pane {{ tab_class }}"
-                 id="schedule-{{ loop.index }}-content"
+                 id="application-{{ loop.index }}-content"
                  role="tabpanel"
-                 aria-labelledby="schedule-tab-{{ loop.index }}">
+                 aria-labelledby="application-tab-{{ loop.index }}">
                 {%- if 'no-timeline' in tab_class %}
                 <h4 class="text-center py-5 text-muted">
                     {{ tab['title'] }} Agenda Coming Soon...
