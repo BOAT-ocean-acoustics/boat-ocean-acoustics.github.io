@@ -249,7 +249,7 @@
 -->
 
 
-{%- if not cookiecutter.application %}
+{%- if cookiecutter.application %}
 <section id="application" class="schedule-section section">
     <div class="container">
         <h4 class="text-center mb-3">Key dates:</h4>
@@ -366,6 +366,7 @@
 
 
 {%- if cookiecutter.schedule %}
+{% set loop.index = 1 %}
 <section id="schedule" class="schedule-section section">
     <div class="container">
         <h3 class="section-heading text-center mb-1">Tentative Schedule</h3>
