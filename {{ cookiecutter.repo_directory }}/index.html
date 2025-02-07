@@ -364,7 +364,8 @@
 {% endif %}
 
 
-{% set loop.index = 1 %}
+
+{% set _ = loop.__setattr__('index', 1) %}
 {%- if cookiecutter.schedule %}
 <section id="schedule" class="schedule-section section">
     <div class="container">
