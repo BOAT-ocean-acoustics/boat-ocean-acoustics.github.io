@@ -35,4 +35,4 @@ A: You are welcome to apply and we will accommodate you subject to event capacit
 A: Yes, we expect all participants to be actively engaged in all workshop activities.
 
 ##### Q: What is the cost to participate in the workshops?
-A: Workshop participation is free. If you are looking for travel support, note that we are only be able to partially subsidize travel costs to the New Orleans workshop ([see here](https://boat-ocean-acoustics.github.io/workshop_new_orleans.html#financial-assistance)).
+A: Workshop participation is free. Applicants to the New Orleans workshop can apply for partial travel support ([see here](https://boat-ocean-acoustics.github.io/workshop_new_orleans.html#financial-assistance)). We are not able to provide travel support for participants to the Seattle workshop.
