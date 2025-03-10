@@ -2,7 +2,7 @@
 
 ## Quick facts
 - **When**: May 17-18, 2025 (immediately before the [ASA/ICA joint meeting](https://acousticalsociety.org/new-orleans-2025/))
-- **Where**: TBD in downtown New Orleans, LA
+- **Where**: [Holiday Inn New Orleans-Downtown Superdome](https://maps.app.goo.gl/WdAzwFFvvVZ6SReq5), New Orleans, LA
 - **What**: 
   - The BOAT New Orleans workshop aims to engage participants nationwide for two days of learning and exploration around ocean acoustics theory and practice. Attending the ASA/ICA meeting is not required for participating in the BOAT workshop.
 - **Who**: 
