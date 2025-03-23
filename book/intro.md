@@ -20,7 +20,7 @@ Looking ahead, we envision maintaining a collection of tutorial modules backed b
 
 
 
-
+## Upcoming workshops
 ```{admonition} Quick links
 :class: seealso
 * [Seattle workshop](./workshop_seattle) (March 24-25, 2025)
