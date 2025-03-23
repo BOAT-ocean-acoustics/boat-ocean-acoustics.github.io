@@ -36,8 +36,8 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 * Due to space limitations, only registered BOAT participants can attend the workshop.
 
 ### Meals
-* Coffee, lunch and, snacks will be provided both days at the BOAT workshop.
-* Dinner will be provided for the first day of the workshop.
+* Coffee/tea and lunch will be provided both days at the BOAT workshop.
+* Light refreshments will be provided for the first day of the workshop.
 
 ### Financial assistance
 * Participants can apply for financial assistance to be reimbursed for up to $400 for air tickets and ground transportation from the airport.
