@@ -37,8 +37,8 @@ Got questions? Check out our [FAQ](./faq), and reach out to us at {{ contact_ema
 * Due to space limitations, only registered BOAT participants can attend the workshop.
 
 ### Meals
-* Coffee, lunch, and snacks will be provided each day at the BOAT workshop.
-* Dinner will be provided for the first day of the workshop.
+* Coffee/tea and lunch will be provided each day at the BOAT workshop.
+* Light refreshments will be provided after the first day of the workshop.
 
 ### Transportation
 * The [Link light rail](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations) provides convenient access to UW campus. The "University of Washington" and "U District" stations on 1-Line are both within walking distance (~10 mins) to the workshop location.
