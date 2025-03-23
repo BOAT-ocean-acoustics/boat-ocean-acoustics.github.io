@@ -34,7 +34,7 @@ tabs:
   - title: "Morning recap: Q&A"
     description: null
     time: 13:30 - 14:00
-  - title: "Primer: Spectral analysis"
+  - title: "Primer: Signal processing"
     description: null
     time: 14:00 - 15:00
     leads:
@@ -50,7 +50,7 @@ tabs:
   - title: BREAK
     description: null
     time: 16:15 - 16:30
-  - title: "Hands-on exercise: ocean experimental data"
+  - title: "Hands-on: Explore sound recordings"
     description: null # noise distribution of spectrum, ambient, transient signals
     time: 16:30 - 17:30
     leads:
@@ -84,7 +84,7 @@ tabs:
     leads:
     - Wu-Jung Lee
     - Todd Hefner
-  - title: "Hands-on exercise: ocean experimental data"
+  - title: "Hands-on: Decipher echograms"
     description: null # echograms
     time: 11:15 - 12:00
   - title: LUNCH
@@ -101,7 +101,7 @@ tabs:
   - title: BREAK
     description: null
     time: 14:30 - 14:45
-  - title: "Hands-on exercise: ocean experimental data"
+  - title: "Hands-on: Fit distributions and test hypotheses"
     description: null
     time: 14:45 - 15:45
     leads:
