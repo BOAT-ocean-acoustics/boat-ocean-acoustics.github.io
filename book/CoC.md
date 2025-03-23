@@ -39,5 +39,3 @@ For UW events, if you are experiencing a problem or issue that needs to be addre
 [SafeCampus](https://www.washington.edu/safecampus/) (206-685-7233) is also available at any time to anonymously discuss safety and well-being concerns for yourself and others. SafeCampus is the University of Washington’s violence-prevention and response program, providing resources to UW students, staff, faculty and community members. For more information, visit their [What to Expect](https://www.washington.edu/safecampus/what-to-expect) page.
 
 Thank you for helping to make our community inclusive, welcoming and safe.
-
-
