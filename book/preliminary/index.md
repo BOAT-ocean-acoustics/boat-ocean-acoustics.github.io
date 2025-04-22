@@ -25,7 +25,7 @@ Advanced Python skills are not required for the workshop, but if you are interes
 :::{tip}
 The easiest way to access a working notebook environment is via [Google Colab](https://colab.google/), which does not require installing anything on your own machine. However, there may be other hurdles if you need to install many additional packages than what's already provided in Colab by default.
 
-If you are interested in installing Python on your own machine, we recommend using Miniforge following the steps [here](https://carpentries.github.io/.workshop-template/install_instructions/#python-1).
+If you are interested in installing Python on your own machine, we recommend using **Miniforge** following the steps [here](https://carpentries.github.io/workshop-template/install_instructions/#python-1).
 :::
 
 
