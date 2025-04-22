@@ -13,6 +13,7 @@ All workshop tutorials and exercises will be in a browser-based [JupyterLab](htt
 <!-- If you are interested in installing Jupyter on your own machine, checkout this page -->
 
 
+(what-to-expect_programming)=
 ## Programming experience
 
 The focus of the workshop will be on ocean acoustics, and the goal of the executable tutorials is to ensure theoretical concepts are introduced alongside **hands-on-keyboard** exercises for participants to develop physical intuitions behind the equations. 
