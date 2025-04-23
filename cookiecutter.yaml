@@ -12,7 +12,12 @@ banner:
   links:
   - url: intro.html
     title: BOAT Program
-    new_window: false
+    new_window: true
+    style: btn-primary
+  - url: https://boat-fundamentals.readthedocs.io/en/latest/landing.html
+    title: Fundamentals tutorials
+    new_window: true
+    style: btn-warning
   image: assets/images/carson_laptop.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-07T08:30:00-07:00"
