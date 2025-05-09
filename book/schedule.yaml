@@ -2,12 +2,17 @@ timezone: event local time # UTC -7 (Pacific Daylight Time)
 tabs:
 - title: Day 1
   contents:
+  - title: Breakfast
+    description: null
+    time: 8:00 - 8:30
+    leads:
+    - All
   - title: Welcome and introduction
     description: null
     time: 8:30 - 9:30
     leads:
     - Wu-Jung Lee
-  - title: "Navigating Jupyter and codespace"
+  - title: "Navigating JupyterHub"
     description: null
     time: 9:30 - 10:00
     leads:
@@ -15,7 +20,7 @@ tabs:
   - title: BREAK
     description: null
     time: 10:00 - 10:15
-  - title: "Acoustic receivers"
+  - title: "Acoustic receivers + signals"  # review
     description: null
     time: 10:15 - 11:15
     leads:
@@ -23,7 +28,7 @@ tabs:
   - title: BREAK
     description: null
     time: 11:15 - 11:30
-  - title: "Acoustic propagation"
+  - title: "Hands-on: Explore sound recordings"
     description: null
     time: 11:30 - 12:30
     leads:
@@ -31,10 +36,10 @@ tabs:
   - title: LUNCH
     description: null
     time: 12:30 - 13:30
-  - title: "Morning recap: Q&A"
+  - title: "Morning recap + Q&A"
     description: null
     time: 13:30 - 14:00
-  - title: "Primer: Signal processing"
+  - title: "Acoustic propagation"
     description: null
     time: 14:00 - 15:00
     leads:
@@ -42,7 +47,7 @@ tabs:
   - title: BREAK
     description: null
     time: 15:00 - 15:15
-  - title: "Primer: Probability distributions"
+  - title: "Hands-on: Multiple arrivals"
     description: null
     time: 15:15 - 16:15
     leads:
@@ -50,62 +55,67 @@ tabs:
   - title: BREAK
     description: null
     time: 16:15 - 16:30
-  - title: "Hands-on: Explore sound recordings"
-    description: null # noise distribution of spectrum, ambient, transient signals
+  - title: "Primer: Probability distributions"
+    description: null
     time: 16:30 - 17:30
     leads:
     - All
-  - title: Informal social (light refreshments)
+  - title: Informal social
     description: null
-    time: 17:30 - 19:00
+    time: 17:30 - 18:00
 - title: Day 2
   contents:
-  - title: Day 1 recap
+  - title: Breakfast
     description: null
-    time: 8:30 - 9:00
+    time: 8:00 - 8:30
     leads:
     - All
   - title: "Acoustic sources"
     description: null
-    time: 9:00 - 9:45
+    time: 8:30 - 9:30
     leads:
     - Todd Hefner
   - title: "Primer: How to read an instrument spec sheet"
     description: null
-    time: 9:45 - 10:00
+    time: 9:30 - 9:45
     leads:
     - Todd Hefner
+  - title: "Primer: Statistical estimation" # with exercise
+    description: null
+    time: 9:45 - 10:30
+    leads:
+    - Valentina Staneva
   - title: BREAK
     description: null
-    time: 10:00 - 10:15
+    time: 10:30 - 10:45
+  - title: "Primer: Statistical testing" # with exercise
+    description: null
+    time: 10:45 - 11:30
+    leads:
+    - Valentina Staneva
+  - title: "Hands-on: Fit distributions and test hypotheses" # break within session
+    description: null
+    time: 11:30 - 12:30
+    leads:
+    - All
+  - title: LUNCH
+    description: null
+    time: 12:30 - 13:30
   - title: "Acoustic scattering"
     description: null
-    time: 10:15 - 11:15
+    time: 13:30 - 14:45
     leads:
     - Wu-Jung Lee
     - Todd Hefner
   - title: "Hands-on: Decipher echograms"
     description: null # echograms
-    time: 11:15 - 12:00
-  - title: LUNCH
+    time: 14:45 - 15:15
+  - title: Survey
     description: null
-    time: 12:00 - 13:00
-  - title: "Morning recap: Q&A"
-    description: null
-    time: 13:00 - 13:30
-  - title: "Primer: Statistical tests and estimation"
-    description: null
-    time: 13:30 - 14:30
-    leads:
-    - Valentina Staneva
+    time: 15:15 - 15:30
   - title: BREAK
     description: null
-    time: 14:30 - 14:45
-  - title: "Hands-on: Fit distributions and test hypotheses"
-    description: null
-    time: 14:45 - 15:45
-    leads:
-    - All
+    time: 15:30 - 15:45
   - title: "Open and reproducible science"
     description: null
     time: 15:45 - 16:30
@@ -114,6 +124,6 @@ tabs:
     - Wu-Jung Lee
   - title: Reflections & feedback
     description: null
-    time: 16:30 - 17:30
+    time: 16:30 - 17:00
     leads:
     - All
