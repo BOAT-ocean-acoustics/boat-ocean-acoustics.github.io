@@ -116,11 +116,12 @@ tabs:
   - title: BREAK
     description: null
     time: 15:30 - 15:45
-  - title: "Open and reproducible science"
+  - title: "Reproducible research best practices"
     description: null
     time: 15:45 - 16:30
     leads:
     - Wu-Jung Lee
+    - Valentina Staneva
   - title: Reflections & feedback
     description: null
     time: 16:30 - 17:00
