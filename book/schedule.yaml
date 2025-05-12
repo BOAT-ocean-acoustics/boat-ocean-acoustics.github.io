@@ -108,9 +108,11 @@ tabs:
     time: 14:45 - 15:15
     leads:
     - Wu-Jung Lee
-  - title: Survey
+  - title: Workshop experience survey
     description: null
     time: 15:15 - 15:30
+    leads:
+    - All
   - title: BREAK
     description: null
     time: 15:30 - 15:45
