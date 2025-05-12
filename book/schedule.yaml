@@ -5,8 +5,6 @@ tabs:
   - title: Breakfast
     description: null
     time: 8:00 - 8:30
-    leads:
-    - All
   - title: Welcome and introduction
     description: null
     time: 8:30 - 9:30
@@ -20,7 +18,7 @@ tabs:
   - title: BREAK
     description: null
     time: 10:00 - 10:15
-  - title: "Acoustic receivers + signals"  # review
+  - title: "Acoustic receivers and signals"
     description: null
     time: 10:15 - 11:15
     leads:
@@ -32,7 +30,7 @@ tabs:
     description: null
     time: 11:30 - 12:30
     leads:
-    - Todd Hefner
+    - Wu-Jung Lee
   - title: LUNCH
     description: null
     time: 12:30 - 13:30
@@ -43,7 +41,7 @@ tabs:
     description: null
     time: 14:00 - 15:00
     leads:
-    - Valentina Staneva
+    - Todd Hefner
   - title: BREAK
     description: null
     time: 15:00 - 15:15
@@ -51,7 +49,7 @@ tabs:
     description: null
     time: 15:15 - 16:15
     leads:
-    - Valentina Staneva
+    - Todd Hefner
   - title: BREAK
     description: null
     time: 16:15 - 16:30
@@ -59,7 +57,7 @@ tabs:
     description: null
     time: 16:30 - 17:30
     leads:
-    - All
+    - Valentina Staneva
   - title: Informal social
     description: null
     time: 17:30 - 18:00
@@ -68,8 +66,6 @@ tabs:
   - title: Breakfast
     description: null
     time: 8:00 - 8:30
-    leads:
-    - All
   - title: "Acoustic sources"
     description: null
     time: 8:30 - 9:30
@@ -97,7 +93,7 @@ tabs:
     description: null
     time: 11:30 - 12:30
     leads:
-    - All
+    - Valentina Staneva
   - title: LUNCH
     description: null
     time: 12:30 - 13:30
@@ -110,6 +106,8 @@ tabs:
   - title: "Hands-on: Decipher echograms"
     description: null # echograms
     time: 14:45 - 15:15
+    leads:
+    - Wu-Jung Lee
   - title: Survey
     description: null
     time: 15:15 - 15:30
@@ -120,7 +118,6 @@ tabs:
     description: null
     time: 15:45 - 16:30
     leads:
-    - Valentina Staneva
     - Wu-Jung Lee
   - title: Reflections & feedback
     description: null
