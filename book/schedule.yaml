@@ -45,7 +45,7 @@ tabs:
   - title: BREAK
     description: null
     time: 15:00 - 15:15
-  - title: "Hands-on: AUV communication"
+  - title: "Hands-on: Communicating with an AUV"
     description: null
     time: 15:15 - 16:15
     leads:
