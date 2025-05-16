@@ -15,7 +15,7 @@ tabs:
     time: 9:30 - 10:00
     leads:
     - Valentina Staneva
-  - title: BREAK
+  - title: BREAK (group picture)
     description: null
     time: 10:00 - 10:15
   - title: "Acoustic receivers and signals"
@@ -45,7 +45,7 @@ tabs:
   - title: BREAK
     description: null
     time: 15:00 - 15:15
-  - title: "Hands-on: Multiple arrivals"
+  - title: "Hands-on: Communicating with an AUV"
     description: null
     time: 15:15 - 16:15
     leads:
@@ -121,7 +121,6 @@ tabs:
     time: 15:45 - 16:30
     leads:
     - Wu-Jung Lee
-    - Valentina Staneva
   - title: Reflections & feedback
     description: null
     time: 16:30 - 17:00
